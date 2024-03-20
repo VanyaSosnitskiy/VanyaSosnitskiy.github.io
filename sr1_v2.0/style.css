@@ -1,0 +1,35 @@
+a{
+    margin: 6px;
+    text-decoration:none;
+    color: white;
+  }
+  .golovna{
+     background: linear-gradient(to left,rgb(49, 0, 128),rgb(255, 0, 157));
+     padding: 10px;
+  }
+  h1{
+      color: rgb(0, 38, 255);
+  }
+  .lytie_pon{
+      background: linear-gradient(to left,rgb(49, 0, 128),rgb(255, 0, 157));
+      padding: 10px;
+      color: rgb(127, 255, 180);
+  }
+  img{
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+  }
+  .bydlaska_ne_stavte_2{
+     background: linear-gradient(to left,rgb(49, 0, 128),rgb(255, 0, 157));
+     padding: 20px;
+     height: 755px;
+  }
+  table{
+    border: 5px rgb(rgb(0, 255, 157), green, blue);
+    color: green;
+    background: linear-gradient(to right, rgb(0, 22, 94),rgb(94, 0, 0));
+    width: 40%;
+  }
+  th{border: 6px solid green;}
+  td{border: 3px solid green;}
